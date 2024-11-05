@@ -8,20 +8,8 @@ NeoFoods is a simple and elegant food ordering website created to demonstrate fr
 - **CSS:** Styles the website, making it visually appealing.
 - **JavaScript:** Adds interactivity and dynamic features.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/NeoFoods.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Neo-FOODS
-   ```
-3. Open `index.html` in your preferred web browser.
-
 ## Deployment
 
 This project is deployed on Render.
+
+https://neofoods.onrender.com
